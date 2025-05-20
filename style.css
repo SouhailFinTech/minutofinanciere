@@ -95,34 +95,6 @@ footer {
   padding: 10px 0;
 }
 
-/* --- Responsive design for mobile devices --- */
-@media (max-width: 768px) {
-    body {
-        padding: 10px;
-        font-size: 16px;
-    }
-
-    img {
-        max-width: 100%;
-        height: auto;
-    }
-
-    .container, .content, .main, .wrapper {
-        width: 100% !important;
-        padding: 0 10px !important;
-        box-sizing: border-box;
-    }
-
-    nav, header, footer {
-        text-align: center;
-        padding: 10px;
-    }
-
-    h1, h2, h3 {
-        font-size: 1.2em;
-    }
-}
-
  
   
 
